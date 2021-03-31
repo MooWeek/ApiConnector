@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\OdantClients\\LocServerStable\\d.Develope\\d.apiconnectorpro\\d.APIConnector3_0\\APIConnector\\CLASS\\modules\\Linux\\APIConnector-1D5AC9A3883EF47.csproj": {}
+  },
+  "projects": {
+    "I:\\OdantClients\\LocServerStable\\d.Develope\\d.apiconnectorpro\\d.APIConnector3_0\\APIConnector\\CLASS\\modules\\Linux\\APIConnector-1D5AC9A3883EF47.csproj": {
+      "version": "2.1.7514.21127",
+      "restore": {
+        "projectUniqueName": "I:\\OdantClients\\LocServerStable\\d.Develope\\d.apiconnectorpro\\d.APIConnector3_0\\APIConnector\\CLASS\\modules\\Linux\\APIConnector-1D5AC9A3883EF47.csproj",
+        "projectName": "APIConnector-1D5AC9A3883EF47",
+        "projectPath": "I:\\OdantClients\\LocServerStable\\d.Develope\\d.apiconnectorpro\\d.APIConnector3_0\\APIConnector\\CLASS\\modules\\Linux\\APIConnector-1D5AC9A3883EF47.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "I:\\OdantClients\\LocServerStable\\d.Develope\\d.apiconnectorpro\\d.APIConnector3_0\\APIConnector\\CLASS\\modules\\Linux\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "I:\\OdantClients\\5 КВАНТ Stable": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "odaEventsCore": {
+              "target": "Package",
+              "version": "[2.1.7515.11112, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

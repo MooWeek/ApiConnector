@@ -1,0 +1,13 @@
+using System.Reflection;
+[assembly: AssemblyTitle("APIConnector-1D5AC9A3883EF47")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("LLC Khorlo")]
+[assembly: AssemblyProduct("Kvant")]
+[assembly: AssemblyCopyright("2012-2020 Khorlo")]
+[assembly: AssemblyTrademark("mismedium.ru")]
+[assembly: AssemblyCulture("")]
+[assembly: AssemblyVersion("2.1.7593.21126")]
+[assembly: AssemblyDelaySign(false)]
+[assembly: AssemblyKeyFile("")]
+[assembly: AssemblyKeyName("")]

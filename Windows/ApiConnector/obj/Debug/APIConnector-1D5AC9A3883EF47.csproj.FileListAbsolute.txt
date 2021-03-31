@@ -1,0 +1,8 @@
+I:\OdantClients\LocServerStable\d.Develope\d.apiconnectorpro\d.APIConnector3_0\APIConnector\CLASS\modules\Windows\obj\Debug\APIConnector-1D5AC9A3883EF47.csprojAssemblyReference.cache
+I:\OdantClients\LocServerStable\d.Develope\d.apiconnectorpro\d.APIConnector3_0\APIConnector\CLASS\modules\Windows\obj\Debug\APIConnector-1D5AC9A3883EF47.csproj.CoreCompileInputs.cache
+I:\OdantClients\LocServerStable\d.Develope\d.apiconnectorpro\d.APIConnector3_0\APIConnector\CLASS\modules\Windows\bin\APIConnector-1D5AC9A3883EF47.dll
+I:\OdantClients\LocServerStable\d.Develope\d.apiconnectorpro\d.APIConnector3_0\APIConnector\CLASS\modules\Windows\bin\APIConnector-1D5AC9A3883EF47.pdb
+I:\OdantClients\LocServerStable\d.Develope\d.apiconnectorpro\d.APIConnector3_0\APIConnector\CLASS\modules\Windows\bin\Newtonsoft.Json.dll
+I:\OdantClients\LocServerStable\d.Develope\d.apiconnectorpro\d.APIConnector3_0\APIConnector\CLASS\modules\Windows\obj\Debug\APIConnector-1D5AC9A3883EF47.csproj.CopyComplete
+I:\OdantClients\LocServerStable\d.Develope\d.apiconnectorpro\d.APIConnector3_0\APIConnector\CLASS\modules\Windows\obj\Debug\APIConnector-1D5AC9A3883EF47.dll
+I:\OdantClients\LocServerStable\d.Develope\d.apiconnectorpro\d.APIConnector3_0\APIConnector\CLASS\modules\Windows\obj\Debug\APIConnector-1D5AC9A3883EF47.pdb
